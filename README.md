@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MariCanizo
+- 👀 I’m interested in Data Anlysis
+- 🌱 I’m currently learning Business Analysis with BigQuery for my job and webScraping in Python for the university.
+- 📫 How to reach me www.linkedin.com/in/marina-cañizo
